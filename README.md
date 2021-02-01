@@ -10,8 +10,7 @@ Authors:
 - Davis Silverman
 - Yihao Sun
 
-Compiled and edited by Kris Micinski (kkmicins@syr.edu). Please report
-any bugs to him.
+Compiled and edited by Kris Micinski (kkmicins@syr.edu).
 
 # ERRATA
 
