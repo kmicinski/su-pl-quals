@@ -15,6 +15,6 @@ Compiled and edited by Kris Micinski (kkmicins@syr.edu).
 # ERRATA
 
 We looked these over for correctness and believe they are correct, but
-the answers are not formally endorsed by anyone. Please report any
+the answers are not formally endorsed by, e.g., the quals committee. Please report any
 bugs to Kristopher Micinski (kkmicins@syr.edu) and he will post errata
 here.
